@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/elguille2/elguille2/assets/79475056/d8fb9b5a-02cd-4765-ac97-70f980b0fb59" height="250"/>
+  <img src="https://i.imgur.com/EaSZHD0.png" height="250"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Guillermo Pacheco</h1>
